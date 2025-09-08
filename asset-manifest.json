@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/siege1-1/static/css/main.e605ed05.css",
+    "main.js": "/siege1-1/static/js/main.e0285a1e.js",
+    "static/js/453.e2126376.chunk.js": "/siege1-1/static/js/453.e2126376.chunk.js",
+    "static/media/french_toast_picture.jpg": "/siege1-1/static/media/french_toast_picture.53aba00d720a7a38539c.jpg",
+    "static/media/waffle_picture.jpg": "/siege1-1/static/media/waffle_picture.f23e92a17ba1efe74831.jpg",
+    "static/media/beans_toast_picture.jpg": "/siege1-1/static/media/beans_toast_picture.c93fb9fd08ecdf3626e7.jpg",
+    "index.html": "/siege1-1/index.html",
+    "main.e605ed05.css.map": "/siege1-1/static/css/main.e605ed05.css.map",
+    "main.e0285a1e.js.map": "/siege1-1/static/js/main.e0285a1e.js.map",
+    "453.e2126376.chunk.js.map": "/siege1-1/static/js/453.e2126376.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e605ed05.css",
+    "static/js/main.e0285a1e.js"
+  ]
+}
