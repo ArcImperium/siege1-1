@@ -1,3 +1,5 @@
+This website is a fun website that uses React to display multiple items and it uses user input to navigate through webpages. It's not difficult to use, as it tries to put the usability as first priority. It is a simple project, but it holds within it more personality and improvement.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
